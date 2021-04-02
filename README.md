@@ -11,16 +11,19 @@ Project is created with:
 ## Setup
 To run this project, install it locally using npm:
 
- `$ cd ../SimplyHomework-main`
- `$ npm install`
+```sh
+  $ cd ../SimplyHomework-main
+  $ npm install
+  ```
 
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-`$ npm run start`
-
+```sh
+$ npm run start
+```
 Starts "npm run build" first and then node ./dist/main.js 
 
 
